@@ -4,7 +4,7 @@ authors:
   - family-names: Shinoto
     given-names: Maria
     orcid: https://orcid.org/0000-0001-6089-4526
-title: "mariashinoto/potterystats"
+title: "A library for analyses of archaeological pottery: mariashinoto/potterystats"
 version: 0.0.1
 doi: 10.5281/zenodo.8333921
 date-released: 2023-09-11
